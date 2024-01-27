@@ -19,4 +19,4 @@ The integration is very experimental so use it in a test environment and only wh
 
 I will soon integrate it with HACS.
 
-I wanted to thank @kamaradclimber for the base work he did to reverse engineer the Hydrao data structures; you will find his work in [this](https://github.com/kamaradclimber/hydrao-dump) repository. Based on this work I'm also developing an mqtt integration to get rid of the dependency with howe assistant bluetooth adapter. Of course this means you have a Rasperry close to the shower
+I wanted to thank [kamaradclimber](https://github.com/kamaradclimber) for the base work he did to reverse engineer the Hydrao data structures; you will find his work in [this](https://github.com/kamaradclimber/hydrao-dump) repository. Based on this work I'm also developing an mqtt integration to get rid of the dependency with howe assistant bluetooth adapter. Of course this means you have a Rasperry close to the shower
