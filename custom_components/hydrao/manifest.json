@@ -1,0 +1,16 @@
+{
+  "domain": "hydrao",
+  "name": "hydrao",
+  "bluetooth": [
+    {
+      "local_name": "HYDRAO*"
+    }
+  ],
+  "codeowners": ["@adizanni"],	
+  "config_flow": true,
+  "dependencies": ["bluetooth_adapters"],
+  "documentation": "",
+  "iot_class": "local_polling",
+  "issue_tracker": "",
+  "version": "1.0"
+}
