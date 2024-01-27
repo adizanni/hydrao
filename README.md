@@ -1,6 +1,11 @@
 # Hydrao Shower Head
 
+![image](https://github.com/adizanni/hydrao/assets/35622920/2aebc83e-5f81-48c9-a4aa-7a75576710c1)
+
 This custom component for [Home Assistant](https://www.home-assistant.io) is supporting active monitoring of the [Hydrao](https://www.hydrao.com/en/) [shower head](https://www.hydrao.com/en/store/showerhead-aloe#/2-couleur-chrome) via BLE 
+
+![image](https://github.com/adizanni/hydrao/assets/35622920/1e31ce6e-a3bd-4138-8375-819eaff8bfec)
+
 
 # Additional Info
 
