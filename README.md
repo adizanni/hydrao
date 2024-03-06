@@ -114,7 +114,7 @@ Duration of the running shower:
 ```yaml
   - platform: ble_client
     type: characteristic
-    ble_client_id: hydrao_small_bathroom
+    ble_client_id: hydrao_aloe_1
     name: "Shower Current Duration"
     service_uuid: '180f'
     characteristic_uuid: 'ca26'
